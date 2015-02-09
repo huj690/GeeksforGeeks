@@ -1,5 +1,4 @@
 #define INF INT_MAX
-
 struct Node {
     int index;
     int weight;
